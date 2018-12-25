@@ -24,13 +24,13 @@ komutlariyla calistirabilirsiniz.
 
 ## TEST SENARYOSU
 
-*Acilan pop-up kapatilir.
-*Login olunur.
-*Sirayla kategori kontrolu ve butik resim kontrolleri yapilir.
-*Random butik secilir.
-*Butigin icerisindeki tum urunleri goruntulenir ve resim kontrolu saglanir.
-*Random urun secilip sepete atilir.
-*Atilan urun ile sepetteki urunun fiyati kontrol edilir.
+* Acilan pop-up kapatilir.
+* Login olunur.
+* Sirayla kategori kontrolu ve butik resim kontrolleri yapilir.
+* Random butik secilir.
+* Butigin icerisindeki tum urunleri goruntulenir ve resim kontrolu saglanir.
+* Random urun secilip sepete atilir.
+* Atilan urun ile sepetteki urunun fiyati kontrol edilir.
 
 
 -------------------------------------------------------------------------------------------------------
