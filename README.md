@@ -1,14 +1,17 @@
 # Trndyl-Test
-
 -------------------------------------------------------------------------------------------------------
 
-Chrome icin -->
-mvn test -Dbrowser=chrome
 
+Chrome icin -->
+```
+mvn test -Dbrowser=chrome
+```
 ya da
 
 Firefox icin -->
+```
 mvn test -Dbrowser=firefox
+```
 
 komutlariyla calistirabilirsiniz.
 
@@ -18,9 +21,9 @@ komutlariyla calistirabilirsiniz.
 
 -------------------------------------------------------------------------------------------------------
 
-##################################
-       - TEST SENARYOSU -
-##################################
+
+## TEST SENARYOSU
+
 *Acilan pop-up kapatilir.
 *Login olunur.
 *Sirayla kategori kontrolu ve butik resim kontrolleri yapilir.
@@ -28,5 +31,6 @@ komutlariyla calistirabilirsiniz.
 *Butigin icerisindeki tum urunleri goruntulenir ve resim kontrolu saglanir.
 *Random urun secilip sepete atilir.
 *Atilan urun ile sepetteki urunun fiyati kontrol edilir.
+
 
 -------------------------------------------------------------------------------------------------------
