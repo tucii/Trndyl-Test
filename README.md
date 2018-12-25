@@ -18,9 +18,9 @@ komutlariyla calistirabilirsiniz.
 
 -------------------------------------------------------------------------------------------------------
 
-###############################
+##################################
        - TEST SENARYOSU -
-###############################
+##################################
 *Acilan pop-up kapatilir.
 *Login olunur.
 *Sirayla kategori kontrolu ve butik resim kontrolleri yapilir.
